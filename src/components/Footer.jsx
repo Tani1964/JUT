@@ -41,8 +41,8 @@ export default function Footer() {
           <div>
             <h3 className="font-semibold mb-4 text-sm uppercase tracking-wider">Contact Info</h3>
             <ul className="space-y-2 text-gray-300 text-sm">
-              <li>123 Sunnyvale Rd, San Jose</li>
-              <li>California, United States</li>
+              <li>1209 MOUNTAIN ROAD PL NE STE R</li>
+              <li>ALBUQUERQUE NM 87110, USA</li>
               <li className="pt-1">(512) 229 1379</li>
               <li>Mon–Fri 10am–5pm, Sat 1pm–5pm</li>
             </ul>
