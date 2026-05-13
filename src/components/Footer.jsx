@@ -43,7 +43,7 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-300 text-sm">
               <li>123 Sunnyvale Rd, San Jose</li>
               <li>California, United States</li>
-              <li className="pt-1">415-111-2233</li>
+              <li className="pt-1">(512) 229 1379</li>
               <li>Mon–Fri 10am–5pm, Sat 1pm–5pm</li>
             </ul>
           </div>
