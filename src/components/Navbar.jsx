@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Link, useLocation } from 'react-router-dom'
+import LOGO from "../assets/logo.png"
 
 const navLinks = [
   { label: 'Home', to: '/' },
@@ -19,9 +20,8 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
-            <div className="w-10 h-10 bg-brand-green rounded-full flex items-center justify-center text-white font-bold text-sm">
-              JUT
-            </div>
+            <img src={LOGO} alt="Logo"  className="w-10 h-10 bg-brand-green rounded-full flex items-center justify-center text-white font-bold text-sm"/>
+            
             <span className="font-semibold text-gray-900 tracking-wide text-sm uppercase">
               JUT SFUNDS RECOVERY
             </span>

@@ -38,7 +38,7 @@ const legalCoord = [
     side: 'left',
   },
   {
-    img: images.attorney,
+    img: images.ref,
     title: 'Experienced Legal Referrals',
     desc: 'When litigation arises, we refer you to licensed counsel who specializes in your specific needs. Our network of experienced attorneys is ready to provide the legal expertise necessary for successful outcomes.',
     side: 'right',
@@ -110,7 +110,7 @@ export default function Services() {
                 <img
                   src={img}
                   alt={title}
-                  className="w-full sm:w-64 h-52 object-cover flex-shrink-0"
+                  className="w-full sm:w-64 h-58 object-cover flex-shrink-0"
                   loading="lazy"
                 />
                 <div className="bg-white p-6 flex flex-col justify-center flex-1">

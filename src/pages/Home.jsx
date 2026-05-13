@@ -144,7 +144,7 @@ export default function Home() {
               <img
                 src={img}
                 alt={title}
-                className="w-full h-52 object-cover"
+                className="w-full h-64 object-cover"
                 loading="lazy"
               />
               <h3 className="font-bold text-gray-900">{title}</h3>
