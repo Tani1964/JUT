@@ -93,7 +93,7 @@ export default function Testimonials() {
               <img
                 src={img}
                 alt={title}
-                className="w-full h-56 object-cover"
+                className="w-full h-62 object-cover"
                 loading="lazy"
               />
               <div>
@@ -138,7 +138,7 @@ export default function Testimonials() {
               <img
                 src={img}
                 alt={title}
-                className="w-full h-48 object-cover"
+                className="w-full h-62 object-cover"
                 loading="lazy"
               />
               <div>

@@ -30,12 +30,12 @@ export const images = {
   expert3: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1647580427155-0483906cb9de',
 
   // Testimonials
-  client1: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80',
-  client2: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80',
-  client3: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80',
-  statsRecovery: 'https://images.unsplash.com/photo-1521791055366-0d553872952f?w=400&q=80',
-  statsFeedback: 'https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&q=80',
-  statsTimely: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&q=80',
+  client1: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1655249507932-25c2f9efaa45',
+  client2: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1585240975908-ed6c1475abc5',
+  client3: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1585240976017-edc2473f9ea3',
+  statsRecovery: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1667897385904-8666929dd49e',
+  statsFeedback: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1662695091632-2ce9d03427ef',
+  statsTimely: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1585240975858-7264fd020798',
 
   // Resources / Blog
   blog1: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1662104935541-aa5b6e02886d',

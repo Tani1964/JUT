@@ -20,7 +20,7 @@ export default function Navbar() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center gap-3">
-            <img src={LOGO} alt="Logo"  className="w-10 h-10 bg-brand-green rounded-full flex items-center justify-center text-white font-bold text-sm"/>
+            <img src={LOGO} alt="Logo"  className="w-14 h-14  bg-brand-green rounded-md flex items-center justify-center text-white font-bold text-sm"/>
             
             <span className="font-semibold text-gray-900 tracking-wide text-sm uppercase">
               JUT SFUNDS RECOVERY
