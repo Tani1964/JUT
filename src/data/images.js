@@ -38,9 +38,9 @@ export const images = {
   statsTimely: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?w=400&q=80',
 
   // Resources / Blog
-  blog1: 'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=400&q=80',
-  blog2: 'https://images.unsplash.com/photo-1507679799987-c73779587ccf?w=400&q=80',
-  blog3: 'https://images.unsplash.com/photo-1589829085413-56de8ae18c73?w=400&q=80',
+  blog1: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1662104935541-aa5b6e02886d',
+  blog2: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1654931801074-42933341e31a',
+  blog3: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1611187401217-0fee54edf7ce',
   docForeclosure: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1577478490466-4bc38112872a',
   docProbate: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1664463760781-f159dfe3af30',
   docChecklist: 'https://user-images.strikinglycdn.com/res/hrscywv4p/image/upload/c_clip,w_960,h_720,f_auto,q_auto/unsplashcom/photo-1547371880-fac65c8600a2',
