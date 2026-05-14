@@ -43,7 +43,7 @@ export default function Footer() {
             <ul className="space-y-2 text-gray-300 text-sm">
               <li>1209 MOUNTAIN ROAD PL NE STE R</li>
               <li>ALBUQUERQUE NM 87110, USA</li>
-              <li className="pt-1">(512) 229 1379</li>
+              <li className="pt-1">+1 (512) 538-4801</li>
               <li>Mon–Fri 10am–5pm, Sat 1pm–5pm</li>
             </ul>
           </div>
